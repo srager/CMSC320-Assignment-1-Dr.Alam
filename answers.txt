@@ -8,3 +8,6 @@ Q1: Why might be consider using git?
 Answer: To collaborate with other people on a large project, or to share 
 your project on a server with others.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: rebase essentially "replays" the changes that we made from out feature branch on our main branch while Merging essentially applies the changes made on a certain feature branch to the current branch its on. 
