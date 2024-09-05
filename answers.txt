@@ -11,3 +11,8 @@ your project on a server with others.
 Q3: What is the difference between merging and rebasing?
 
 Answer: rebase essentially "replays" the changes that we made from out feature branch on our main branch while Merging essentially applies the changes made on a certain feature branch to the current branch its on. 
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: Collaborating with others and creating a project
+
